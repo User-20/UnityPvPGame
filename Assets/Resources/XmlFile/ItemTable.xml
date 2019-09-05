@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ItemAttribute>
+  <Item Category="Item">
+    <ItemName>Bullet</ItemName>
+    <Demage>1</Demage>
+  </Item>
+  
+  <Item Category="Item">
+    <ItemName>Dynamite</ItemName>
+    <Demage>3</Demage>
+  </Item>
+  
+  <Item Category="Item">
+    <ItemName>Cannon_ball</ItemName>
+    <Demage>5</Demage>
+  </Item>
+</ItemAttribute>
